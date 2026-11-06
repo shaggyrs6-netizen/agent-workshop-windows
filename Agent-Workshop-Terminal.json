@@ -1,0 +1,27 @@
+{
+  "schemes": [
+    {
+      "name": "Agent Workshop",
+      "background": "#11151d",
+      "foreground": "#ddd9cf",
+      "cursorColor": "#b49be8",
+      "selectionBackground": "#333049",
+      "black": "#11151d",
+      "red": "#ef93a4",
+      "green": "#88c8a0",
+      "yellow": "#dfc08b",
+      "blue": "#91b8ec",
+      "purple": "#c2a0ea",
+      "cyan": "#83c8c5",
+      "white": "#ddd9cf",
+      "brightBlack": "#a8aebd",
+      "brightRed": "#ffacba",
+      "brightGreen": "#a4ddb8",
+      "brightYellow": "#efd3a4",
+      "brightBlue": "#accdf9",
+      "brightPurple": "#d7bcf6",
+      "brightCyan": "#a0dcd7",
+      "brightWhite": "#efede7"
+    }
+  ]
+}

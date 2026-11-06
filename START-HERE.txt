@@ -1,0 +1,66 @@
+AGENT WORKSHOP — WINDOWS 11 TEST EDITION
+6 November 2026 • Prepared by Lee Shand / Wired Differently
+
+Five cinematic AI workshop wallpapers, adapted from Agent Workshop for Omarchy.
+This is a private test build. Archive and image checks passed on Linux;
+actual Windows theme import, accent and dark-mode behaviour need testing.
+
+GET STARTED
+1. Right-click the downloaded ZIP and choose Extract All.
+2. Before applying, open Settings > Personalization > Themes and save your
+   current theme if you want to return to its exact appearance.
+3. Double-click Agent-Workshop-Standard-16x9.deskthemepack.
+   For an ultrawide monitor, use Agent-Workshop-Ultrawide.deskthemepack instead.
+4. Check Settings > Personalization > Themes for the new Agent Workshop theme.
+
+The package requests a shuffled wallpaper change every 30 minutes, a violet
+accent (#B49BE8), and dark Windows/app appearance. Windows versions and apps
+can interpret theme settings differently. If colours do not apply, go to
+Personalization > Colors, select Dark, and set the custom accent to #B49BE8.
+Slideshow timing and shuffle can be changed under Personalization > Background.
+If the slideshow does not import, report that before distributing this build.
+
+SCREEN SHAPES
+Standard: 2560 x 1440 JPEGs, preserving the complete ultrawide compositions
+with graphite space above and below. These are padded versions, not newly
+composed 16:9 artwork. Ultrawide: 3440 x 1440 JPEGs. Both use Fit, avoiding
+additional cropping on other screen shapes. The source art was AI-generated
+at about 1939 x 811 and upscaled for Omarchy; these are not native 4K images.
+
+OPTIONAL WINDOWS TERMINAL COLOURS
+Skip this if you do not use Windows Terminal.
+1. In File Explorer's address bar, enter:
+   %LOCALAPPDATA%\Microsoft\Windows Terminal\Fragments
+2. Create a folder named WiredDifferently.AgentWorkshop if it does not exist.
+3. Copy Agent-Workshop-Terminal.json into that folder. If a file already exists
+   with this name, keep it and ask before replacing it.
+4. Fully close and reopen Terminal. Open Settings > your chosen profile >
+   Appearance > Color scheme, select Agent Workshop, then Save.
+This uses Microsoft's colour-scheme fragment mechanism. It does not replace
+settings.json, alter shell commands, change fonts or automatically select a scheme.
+
+RESTORE
+Select your previous theme in Settings > Personalization > Themes. If needed,
+restore your previous light/dark mode and accent in Personalization > Colors.
+For Terminal, select your previous colour scheme and then remove only the
+Agent-Workshop-Terminal.json file you added above.
+
+WHAT TO TEST
+- Double-click import succeeds; all five pictures appear in the slideshow.
+- Pictures remain available after closing/reopening Settings and after sign-in.
+- Violet accent and dark mode apply, or the manual fallback works.
+- Both aspect-ratio variants display as described.
+- Terminal scheme appears and is readable; previous theme restores correctly.
+Send the Windows version (Settings > System > About) with any failure details.
+
+SCOPE AND CREDITS
+This package provides wallpapers and supported theme settings. It cannot give
+all Windows applications Omarchy's interface styling. No patcher, administrator
+script, custom system DLL, bot, font, sound or cursor is included.
+Original artwork and credits: Original-Omarchy-Credits.md; licence: LICENSE.txt.
+The original README describes the Linux source, not Windows installation.
+No endorsement by Microsoft, Omarchy, Grok Bot or xAI is claimed.
+
+Microsoft references checked 6 November 2026:
+https://learn.microsoft.com/en-us/windows/win32/controls/themesfileformat-overview
+https://learn.microsoft.com/en-us/windows/terminal/json-fragment-extensions
