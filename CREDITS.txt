@@ -1,0 +1,17 @@
+Agent Workshop for Windows 11 — Lee Shand / Wired Differently
+
+Includes all five AI-generated wallpapers from Agent Workshop for Omarchy.
+Source commit: 7607d213b74a731395d3f3346bde85f9db459588
+https://github.com/shaggyrs6-netizen/omarchy-agent-workshop-theme
+This link is attribution only: no download from that repository is required.
+
+Grok Bot avatar silhouettes and colours were informed by the public Omabot
+implementation: https://github.com/njpatel/omabot/blob/main/Avatar.qml and
+https://github.com/njpatel/omabot/blob/main/bin/omabot-watch
+Omarchy's emblem informed the small marks in the scenes.
+No private bot roster or conversations are included. These are stylised
+AI-generated artworks, not official app screenshots or an endorsed product.
+The existing MIT licence applies to the extent applicable rights exist. It
+does not promise exclusive copyright in AI-generated images or grant rights
+in third-party trademarks. No endorsement by Microsoft, Grok Bot, xAI,
+Omabot's author or Omarchy is claimed.

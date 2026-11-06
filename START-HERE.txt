@@ -2,8 +2,13 @@ AGENT WORKSHOP — WINDOWS 11 TEST EDITION
 6 November 2026 • Prepared by Lee Shand / Wired Differently
 
 Five cinematic AI workshop wallpapers, adapted from Agent Workshop for Omarchy.
-This is a private test build. Archive and image checks passed on Linux;
+This is a public preview build. Archive and image checks passed on Linux;
 actual Windows theme import, accent and dark-mode behaviour need testing.
+
+EVERYTHING IS INCLUDED
+All five wallpapers are included inside both theme packs AND as ordinary JPEG
+files in Wallpapers/Standard-16x9 and Wallpapers/Ultrawide. No Omarchy download,
+Linux software or separate wallpaper repository is needed.
 
 GET STARTED
 1. Right-click the downloaded ZIP and choose Extract All.
@@ -18,7 +23,14 @@ accent (#B49BE8), and dark Windows/app appearance. Windows versions and apps
 can interpret theme settings differently. If colours do not apply, go to
 Personalization > Colors, select Dark, and set the custom accent to #B49BE8.
 Slideshow timing and shuffle can be changed under Personalization > Background.
-If the slideshow does not import, report that before distributing this build.
+If the slideshow does not import, use the manual slideshow steps below and report the issue.
+
+WALLPAPERS ONLY / MANUAL SLIDESHOW
+Keep the extracted Wallpapers folder somewhere permanent, such as Pictures.
+For one picture: right-click a JPEG and choose Set as desktop background.
+For a slideshow: Settings > Personalization > Background > Slideshow > Browse,
+then select Wallpapers/Standard-16x9 (ordinary screens) or Wallpapers/Ultrawide.
+Choose your preferred interval and Fit. Keep that folder in place afterwards.
 
 SCREEN SHAPES
 Standard: 2560 x 1440 JPEGs, preserving the complete ultrawide compositions
@@ -57,8 +69,7 @@ SCOPE AND CREDITS
 This package provides wallpapers and supported theme settings. It cannot give
 all Windows applications Omarchy's interface styling. No patcher, administrator
 script, custom system DLL, bot, font, sound or cursor is included.
-Original artwork and credits: Original-Omarchy-Credits.md; licence: LICENSE.txt.
-The original README describes the Linux source, not Windows installation.
+Artwork credits: CREDITS.txt; licence: LICENSE.txt.
 No endorsement by Microsoft, Omarchy, Grok Bot or xAI is claimed.
 
 Microsoft references checked 6 November 2026:
